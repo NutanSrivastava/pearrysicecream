@@ -5,12 +5,7 @@
     .ice-block-3 img {height: 18em;}
     .h3-ban {    color: #6f1f0a !important;    padding-bottom: 0px;}
     .all-scoop {padding: 0px 0;}
-    /*.contact-content-banner {position: absolute;top: 32%;}
-    .contactpage-banner img {height: 23em;    border-radius: 15px;    padding-left: 1em;}
-    .contactpage-banner .left-img {padding-left: 5em;}
-    .order-content-banner {position: absolute;top: 18%;    left: 65%;}
-    .container.cat-banner-content {position: absolute;    top: 44% !important;    margin-left: 54px;}
-*/}
+}
 
 @media only screen and (max-width: 992px){
     .logo{width: 120px;}
@@ -115,7 +110,7 @@
     /*Contact Page Start*/
     .contact-content-banner {top: 49%;}
     .contact-h3-ban {     margin-top: -34px !important;   color: #6f1f0a !important;    padding-bottom: 3px;}
-    .contact-main {padding: 114px 0 107px;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1610130811/PearryIceCream/compressimage/parallax-3_cnc7gh-compressed_1_f4ehc4.jpg);background-size: cover;}
+    .contact-main {padding: 114px 0 107px;    background: url("../images/prod/parallax.jpg");background-size: cover;}
     .contact-main h2{font-size: 30px; font-family: 'Merienda One'; line-height: 5px;}
     .contact-main h3{font-size: 22px;font-family: 'Merienda One';}
     .contact-button-click {padding: 11px 6px;font-size: 16px;}
@@ -136,14 +131,14 @@
     .subscribe-sec form {padding-top: 17px;    padding-left: 4em;}
     .subscribe-sec {padding: 50px 0;background-size: auto;background-position: center;}
     .contact-box-inner p {font-size: 14px;}
-    .divider {    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1609995094/Pearry/divide_axqpu5.png);height: 16px;    margin-top: -11px;    position: relative;}
+    .divider {    background: url("../images/prod/divide.png");height: 16px;    margin-top: -11px;    position: relative;}
     .contact_video{  height: 14em !important;}
     .contactpage-banner img {margin-left: 2em;}
     /*Contact Page End*/
 
 
     /*Order Now Start*/
-    .order-main {    padding: 84px 0 20px;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1610035459/Pearry/orderbanner_bai0w0.jpg);background-size: cover;    background-position: top;}
+    .order-main {    padding: 84px 0 20px;    background: url("../images/prod/orderbanner_bai0w0.jpg");background-size: cover;    background-position: top;}
     .order-main img {height: 37px;    float: right;}
     .order-main h2 {    padding-bottom: 20px;font-size: 17px;margin-top: -128px;}
     .order-main h3 {    font-size: 25px; padding: 0; margin-top: -166px}
@@ -191,11 +186,11 @@
         .button-click {    transition: 0.8s;    padding: 10px 5px;    border: 1px solid #e31e24;    background-color: #e31e24;    font-size: 12px;    font-family: 'Merienda One';cursor: pointer;/* margin: 10px; */color: #fff;margin-top: 0px;}
         .button-click:hover{    transition: 0.8s;    padding: 10px 5px;    border: 1px solid #e31e24;    background-color: #fff;    font-size: 12px;    font-family: 'Merienda One';cursor: pointer;/* margin: 10px; */color: #e31e24;margin-top: -9px;}
         #myVideo {display: none;}
-        .main {    position: relative;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1610035460/Pearry/header_jnwtde.webp);padding: 0px 0 0px;    background-size: cover;    background-position: center;}
+        .main {    position: relative;    background: url("../images/prod/header_jnwtde.webp");padding: 0px 0 0px;    background-size: cover;    background-position: center;}
         /*banner end*/
 
         /*welcome start*/
-        section.ice-cream-block {padding: 23px 0;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1609995356/Pearry/offer_bg_fgqkb4.webp);}
+        section.ice-cream-block {padding: 23px 0;    background: url("../images/prod/offer_bg.webp");}
         .ice-cream-block h3 {font-size: 40px;    line-height: 36px;}
         .col-md-4.col-sm-4.col-xs-12.text-center.iceimg1 {padding: 20px;}
         .exp-now {    padding: 8px 11px;    font-size: 12px;}
@@ -207,7 +202,7 @@
         /*all scoop*/
         .iceboxrow0 h2 {font-size: 40px;    font-family: 'Fredericka the Great';font-weight: normal;line-height: 42px;    padding-top: 33px;}
         .iceboxrow0 h3 {font-size: 33px;    font-family: 'Satisfy';    line-height: 52px;}
-        .all-scoop {    background-size: inherit;padding: 0px 0;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1609995277/Pearry/hd-11_tmnpqr.jpg);}
+        .all-scoop {    background-size: inherit;padding: 0px 0;    background: url("../images/prod/hd-11_tmnpqr.jpg");}
         .iceboxrow1 {padding: 0px 20px 0 20px; }
         .icebox {    margin-bottom: 30px;}
         .ice-text a {    font-size: 20px;}
@@ -341,11 +336,11 @@
 
     /*extras*/
     .iceboxrow0 {    padding: 0px 0;}
-    .category-main { position: relative;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1610035476/Pearry/close-up-colorful-balls-from-freshly-prepared-homemade-ice-cream_70626-11588_obnzeo.jpg);}
+    .category-main { position: relative;    background: url("../images/prod/category.jpg");}
     .contactpage-banner .left-img { padding-left: 0em; margin-left: 2em !important}
     .contactpage-banner img {height: 27em;padding-left: 0em; padding-bottom: 1em}
     .contactpage-banner h2 {font-size: 40px; padding-bottom:10px; padding-left: 0}
-    .contactpage-banner {padding: 4em 0;    background: url(https://res.cloudinary.com/dduamjzns/image/upload/v1610622163/Pearry/compressed/Pngtree_ice_cream_fruit_plant_green_914223_mwutjb-compressed_ijtfur.jpg);background-size: cover;}
+    .contactpage-banner {padding: 4em 0;    background: url("../images/prod/franbg.jpg");background-size: cover;}
     .franpng { margin-top: 0em; margin-left: 0em;}
     .image-product.badam {height: 6em;    margin-top: 2em;}
 }
